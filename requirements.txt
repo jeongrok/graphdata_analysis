@@ -1,3 +1,5 @@
 numpy==1.18.0
 pandas
 torch==1.4.0
+RDKit
+sklearn
